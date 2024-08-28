@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "petriummod:petrium_ore",
+    "petriummod:petrium_block",
+    "petriummod:deepslate_petrium_ore"
+  ]
+}

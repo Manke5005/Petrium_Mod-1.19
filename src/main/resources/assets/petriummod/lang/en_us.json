@@ -1,0 +1,10 @@
+{
+  "item.petriummod.petrium": "Raw Petrium",
+  "item.petriummod.petrium_ingot": "Petrium Ingot",
+
+  "block.petriummod.petrium_block": "Block of Petrium",
+  "block.petriummod.petrium_ore": "Petrium Ore",
+  "block.petriummod.deepslate_petrium_ore": "Deepslate Petrium Ore",
+
+  "itemGroup.petriummod.petrium": "Petrium"
+}

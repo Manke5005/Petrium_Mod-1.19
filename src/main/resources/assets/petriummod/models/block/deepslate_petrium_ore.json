@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "petriummod:block/deepslate_petrium_ore"
+  }
+}

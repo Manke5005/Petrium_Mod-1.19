@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "petriummod:petrium_ingot"
+    },
+    {
+      "item": "petriummod:petrium_ingot"
+    },
+    {
+      "item": "petriummod:petrium_ingot"
+    },
+    {
+      "item": "petriummod:petrium_ingot"
+    }
+  ],
+  "result": {
+    "item": "petriummod:petrium_block",
+    "count": 1
+  }
+}
