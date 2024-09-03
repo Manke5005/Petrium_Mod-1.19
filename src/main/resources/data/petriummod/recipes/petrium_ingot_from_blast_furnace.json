@@ -1,7 +1,7 @@
 {
   "type": "minecraft:blasting",
   "cookingtime": 500,
-  "experience": 100.0,
+  "experience": 69.0,
   "group": "petrium_ingot",
   "ingredient": {
     "item": "petriummod:petrium"

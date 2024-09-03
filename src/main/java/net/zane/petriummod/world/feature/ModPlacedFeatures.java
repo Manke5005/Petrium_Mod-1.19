@@ -10,7 +10,7 @@ import java.util.List;
 public class ModPlacedFeatures {
     public static final RegistryEntry<PlacedFeature> PETRIUM_ORE_PLACED = PlacedFeatures.register("petrium_ore_placed",
             ModConfiguredFeatures.PETRIUM_ORE, modifiersWithCount(3,
-                    HeightRangePlacementModifier.trapezoid(YOffset.fixed(-69), YOffset.fixed(-21))));
+                    HeightRangePlacementModifier.trapezoid(YOffset.fixed(-75), YOffset.fixed(-21))));
 
 
 

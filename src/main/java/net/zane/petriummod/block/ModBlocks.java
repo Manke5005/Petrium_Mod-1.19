@@ -17,15 +17,15 @@ import net.zane.petriummod.item.ModItemGroup;
 public class ModBlocks {
 
     public static final Block PETRIUM_ORE = registerBlock("petrium_ore",
-            new OreBlock(FabricBlockSettings.of(Material.STONE).strength(4f).requiresTool(),
-                    UniformIntProvider.create(3, 7)), ModItemGroup.PETRIUM);
+            new OreBlock(FabricBlockSettings.of(Material.STONE).strength(24f).requiresTool(),
+                    UniformIntProvider.create(21, 69)), ModItemGroup.PETRIUM);
 
     public static final Block DEEPSLATE_PETRIUM_ORE = registerBlock("deepslate_petrium_ore",
-            new OreBlock(FabricBlockSettings.of(Material.STONE).strength(4f).requiresTool(),
-                    UniformIntProvider.create(3, 7)), ModItemGroup.PETRIUM);
+            new OreBlock(FabricBlockSettings.of(Material.STONE).strength(36f).requiresTool(),
+                    UniformIntProvider.create(21, 69)), ModItemGroup.PETRIUM);
 
     public static final Block PETRIUM_BLOCK = registerBlock("petrium_block",
-            new Block(FabricBlockSettings.of(Material.METAL).strength(4f).requiresTool()), ModItemGroup.PETRIUM);
+            new Block(FabricBlockSettings.of(Material.METAL).strength(12f).requiresTool()), ModItemGroup.PETRIUM);
 
 
 
