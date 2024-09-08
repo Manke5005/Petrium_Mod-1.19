@@ -1,6 +1,6 @@
 {
   "type": "minecraft:smelting",
-  "cookingtime": 1000,
+  "cookingtime": 800,
   "experience": 69.0,
   "group": "petrium_ingot",
   "ingredient": {
